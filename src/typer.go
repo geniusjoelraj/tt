@@ -335,8 +335,14 @@ func (t *typer) start(s string, timeLimit time.Duration, startImmediately bool, 
 				rc = TyperSigInt
 
 				return
-			case tcell.KeyEscape:
+
+			case tcell.KeyTab:
 				rc = TyperEscape
+
+				return
+
+			case tcell.KeyEscape:
+				rc = TyperSigInt
 
 				return
 			case tcell.KeyCtrlL:

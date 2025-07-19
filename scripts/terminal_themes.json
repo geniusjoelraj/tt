@@ -3593,5 +3593,27 @@
         "color15": "#ffffff",
         "background": "#3f3f3f",
         "foreground": "#dcdccc"
+    },
+  {
+    "catppuccin-mocha": {
+        "color0": "#1E1E2E",
+        "color1": "#F38BA8",
+        "color2": "#A6E3A1",
+        "color3": "#F9E2AF",
+        "color4": "#89B4FA",
+        "color5": "#CBA6F7",
+        "color6": "#94E2D5",
+        "color7": "#CDD6F4",
+        "color8": "#6C7086",
+        "color9": "#F38BA8",
+        "color10": "#A6E3A1",
+        "color11": "#F9E2AF",
+        "color12": "#89B4FA",
+        "color13": "#CBA6F7",
+        "color14": "#94E2D5",
+        "color15": "#BAC2DE",
+        "background": "#1E1E2E",
+        "foreground": "#CDD6F4"
     }
+}
 }
