@@ -1,8 +1,14 @@
 # What
+A fork of tt.
 
 A terminal based typing test.
 
 ![](demo.gif)
+
+
+# New things added 
+- Added catppuccin-mocha  theme in custom_themes folder
+- Changed the exit button to esc and reset button to tab
 
 # Installation
 
