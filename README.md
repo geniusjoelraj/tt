@@ -1,5 +1,5 @@
 # What
-A fork of tt.
+A fork of [tt](https://github.com/lemnos/tt).
 
 A terminal based typing test.
 
